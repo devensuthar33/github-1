@@ -14,3 +14,14 @@ a {
 li {
   list-style: none;
 }
+
+h1 {
+  color: red;
+  text-align: center;
+}
+
+p {
+  color: yellow;
+  text-transform: capitalize;
+  font-size: 20px;
+}
